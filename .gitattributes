@@ -1,0 +1,2 @@
+.npy filter=lfs diff=lfs merge=lfs -text
+trnImage.npy filter=lfs diff=lfs merge=lfs -text
